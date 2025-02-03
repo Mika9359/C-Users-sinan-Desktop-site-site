@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    font-family: "Lexend", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+body {
+    background-color: rgb(183, 183, 183);
+}
+  
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(0, 0, 0);
+}
+
+nav {
+    font-size: 1.5em;
+}
+
+.contact {
+    display: flex;
+    margin: 10px;
+}
+
+main {
+    margin: 15px;
+}
+
+footer {
+    padding-top: 5px;
+    padding-bottom: 20px;
+    background-color: rgb(0, 0, 0);
+}
+
+.lien-CV {
+    font-size: 2em;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+}
+
+.liens-nav a{
+    margin-left: 15px;
+    padding: 7px;
+    text-decoration: none;
+    color: rgb(255, 255, 255)    ;
+}
+.liens-nav a:hover{
+    background-color: rgb(183, 183, 183);
+    border-radius: 30% 30% 30% 30% / 50% 50% 50% 50%  ;
+}
+
+.lien-icone {
+    margin: 5px;
+}
+
+.presentation {
+    display: flex;
+    justify-content: center;
+}
+
+.colonnes-parcours {
+    display: flex;
+    justify-content: space-around;
+}
+
+.separateur {
+    border-bottom: dotted thick;
+    margin-bottom: 15px;
+    padding: 25px;
+}
+
+.info {
+    color: white
+
+}
+
+.separateurcote {
+    margin-inline: 25px;
+    padding-left: 25px;
+    border-left: solid
+}
+
+.separateurligne {
+    padding: 25px;
+    border-bottom: solid
+}
+
+.sansligne {
+    margin-bottom: 15px;
+    padding: 25px;
+
+}
+
+.espaceh {
+    padding-top: 25px;
+}
+
+.liens a:hover {
+    color:rgb(0, 0, 0)
+
+}
+
+a {
+    color:black;
+}
+
+a:hover {
+    color: white;
+}
+
+.blabla {
+    font-size: 1.5em;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    line-height: 50px;
+}
+
+.plus {
+    padding: 50px;
+    border-right: solid;
+    top: auto;
+    left: auto;
+}
+
+
+.colonnes-parcours2 {
+    display: flex;
+}
+
+
+.separateurcote2 {
+    margin-inline: 25px;
+    padding: 125px;
+    border-left: solid
+}
+
+
+.separateur {
+    border-bottom: dotted thick;
+    margin-bottom: 15px;
+    padding: 25px;
+}
+
+
+.espaceg {
+    padding-left: 20px;
+}
+
+
+.espacegh {
+    padding-left: 20px;
+    padding-top: 25px;
+}
+
+
+.espaceg2 {
+    padding-left: 175px;
+}
+
+.enbas {
+    padding-bottom: 98px;
+}
